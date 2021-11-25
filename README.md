@@ -3,6 +3,8 @@
 
 **Updates**
 
+* `2021-11-25` Add Amazon SageMaker endpoint BYOC support in **sagemaker** folder by snowolf
+
 * `2021-10-17` Add weights for [FacePortraitV2](#additional-model-weights). [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bryandlee/animegan2-pytorch/blob/main/colab_demo.ipynb)
 
     ![sample](https://user-images.githubusercontent.com/26464535/142294796-54394a4a-a566-47a1-b9ab-4e715b901442.gif)
